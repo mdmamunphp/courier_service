@@ -1,0 +1,57 @@
+ <div class="col-lg-6">
+                        <div class="card">
+                            <div class="card-body">
+                                <h4 class="card-title">Contextual Table</h4>
+                                <div class="table-responsive">
+                                    <table class="table header-border">
+                                        <thead>
+                                            <tr>
+                                                <th>#</th>
+                                                <th>Column heading</th>
+                                                <th>Column heading</th>
+                                                <th>Column heading</th>
+                                            </tr>
+                                        </thead>
+                                        <tbody>
+                                            <tr class="table-active">
+                                                <td>1</td>
+                                                <td>Column content</td>
+                                                <td>Column content</td>
+                                                <td>Column content</td>
+                                            </tr>
+                                            <tr class="table-primary">
+                                                <td>1</td>
+                                                <td>Column content</td>
+                                                <td>Column content</td>
+                                                <td>Column content</td>
+                                            </tr>
+                                            <tr class="table-success">
+                                                <td>2</td>
+                                                <td>Column content</td>
+                                                <td>Column content</td>
+                                                <td>Column content</td>
+                                            </tr>
+                                            <tr class="table-info">
+                                                <td>3</td>
+                                                <td>Column content</td>
+                                                <td>Column content</td>
+                                                <td>Column content</td>
+                                            </tr>
+                                            <tr class="table-warning">
+                                                <td>4</td>
+                                                <td>Column content</td>
+                                                <td>Column content</td>
+                                                <td>Column content</td>
+                                            </tr>
+                                            <tr class="table-danger">
+                                                <td>5</td>
+                                                <td>Column content</td>
+                                                <td>Column content</td>
+                                                <td>Column content</td>
+                                            </tr>
+                                        </tbody>
+                                    </table>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
